@@ -1,3 +1,4 @@
+# Sentiment analysis for reviews by customers and visualize the same. 
 import csv
 from textblob import TextBlob
 
